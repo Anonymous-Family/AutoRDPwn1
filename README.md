@@ -74,39 +74,3 @@ https://darkbyte.net/autordpwn-la-guia-definitiva
 
 # License
 This project is licensed under the GNU 3.0 license - see the LICENSE file for more details.
-
-
-# Credits and Acknowledgments
-This framework has been created and designed from scratch by Joel Gámez Molina // @JoelGMSec
-
-Some modules use third-party code, scripts, and tools, particularly:
-
-• **Chachi-Enumerator** by *Luis Vacas* --> https://github.com/Hackplayers/PsCabesha-tools
-
-• **Invoke-Phant0m** by *Halil Dalabasmaz* --> https://github.com/hlldz/Invoke-Phant0m
-
-• **Invoke-PowerShellTcp** by *Nikhil "SamratAshok" Mittal* --> https://github.com/samratashok/nishang
-
-• **Invoke-TheHash** by *Kevin Robertson* --> https://github.com/Kevin-Robertson/Invoke-TheHash
-
-• **Mimikatz** by *Benjamin Delpy* --> https://github.com/gentilkiwi/mimikatz
-
-• **PsExec** by *Mark Russinovich* --> https://docs.microsoft.com/en-us/sysinternals/downloads/psexec
-
-• **RDP Wrapper** by *Stas'M Corp.* --> https://github.com/stascorp/rdpwrap
-
-• **SharpRDP** by *Steven F* --> https://github.com/0xthirteen/SharpRDP
-
-And many more, that do not fit here.. Thanks to all of them and their excellent work.
-
-
-# Contact
-This software does not offer any kind of guarantee. Its use is exclusive for educational environments and / or security audits with the corresponding consent of the client. I am not responsible for its misuse or for any possible damage caused by it.
-
-For more information, you can find me on Twitter as [@JoelGMSec](https://twitter.com/JoelGMSec) and on my blog [darkbyte.net](https://darkbyte.net).
-
-
-# Support
-You can support my work buying me a coffee:
-
-[<img width=250 alt="buymeacoffe" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png">](https://www.buymeacoffee.com/joelgmsec)
